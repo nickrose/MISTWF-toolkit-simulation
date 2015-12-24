@@ -19,3 +19,5 @@ runEHscenarios
 
 use breakpoints to explore the inner workings. There are a lot of structures for recording metrics and other aspects of the optimization process. 
 
+You are welcome to send a comment or question via the gitHub interface.
+
