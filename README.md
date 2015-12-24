@@ -17,5 +17,5 @@ To get started, run
 
 runEHscenarios
 
-use breakpoints to explore the inner workings. There are a lot of structure for recording metrics and other aspects of the optimization process. 
+use breakpoints to explore the inner workings. There are a lot of structures for recording metrics and other aspects of the optimization process. 
 
