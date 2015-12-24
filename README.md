@@ -8,6 +8,7 @@ Since this matlab code is offered freely, we only ask that if you borrow or modi
 
 "An Alternative Perspective on Utility Maximization in Energy-Harvesting Wireless Sensor Networks" 
 by N. Roseveare and B. Natarajan
+
 http://dx.doi.org/10.1109/TVT.2013.2272245
 
 This is the matlab implementation and simulation infrastructure of the algorithm in the above article.
